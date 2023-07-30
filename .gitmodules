@@ -1,0 +1,3 @@
+[submodule "themes/carolTheme"]
+	path = themes/carolTheme
+	url = git@github.com:cortegap/carolTheme.git

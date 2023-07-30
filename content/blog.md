@@ -1,0 +1,1 @@
+Here is where my blog will go, when I decide to create one. When the day comes, this blog will most likely include lots of cartoons, probably describing some cryptographic concepts, because I like cryptography, cartoons, and teaching.

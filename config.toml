@@ -1,0 +1,47 @@
+baseURL = 'https://cortegap.github.io'
+title = 'Carolina Ortega Pérez'
+theme = "carolTheme"
+
+[menu]
+  [languages.en]
+    languageCode = 'en-US'
+    languageName = 'English'
+    weight = 1
+    [languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "Carolina Ortega Pérez"
+    pageRef = "/about"
+    weight = 5
+  [[languages.en.menu.main]]
+    name = "Publications"
+    pageRef = "/publications"
+    weight = 10
+  [[languages.en.menu.main]]
+    name = "Talks"
+    pageRef = "/talks"
+    weight = 30
+  [[languages.en.menu.main]]
+    name = "CV"
+    pageRef = "/cv"
+    weight = 40
+  [languages.es]
+    languageCode = 'es-CO'
+    languageName = 'Spanish'
+    weight = 2
+    [languages.es.menu]
+  [[languages.es.menu.main]]
+    name = "Carolina Ortega Pérez"
+    pageRef = "/sobre-mi"
+    weight = 5
+  [[languages.es.menu.main]]
+    name = "Publicaciones"
+    pageRef = "/publications"
+    weight = 10
+  [[languages.es.menu.main]]
+    name = "Charlas"
+    pageRef = "/talks"
+    weight = 30
+  [[languages.es.menu.main]]
+    name = "CV"
+    pageRef = "/cv"
+    weight = 40

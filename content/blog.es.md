@@ -1,0 +1,1 @@
+Cuando decida comenzar un blog, aquí es donde lo voy a incluir. Conociéndome, el blog probablemente incluirá dibujos explicando conceptos de criptografía, ya que me gusta enseñar, dibujar y, por supuesto, la criptografía.
