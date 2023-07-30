@@ -10,7 +10,7 @@ theme = "carolTheme"
     [languages.en.menu]
   [[languages.en.menu.main]]
     name = "Carolina Ortega Pérez"
-    pageRef = "/about"
+    pageRef = "/me"
     weight = 5
   [[languages.en.menu.main]]
     name = "Publications"
@@ -31,7 +31,7 @@ theme = "carolTheme"
     [languages.es.menu]
   [[languages.es.menu.main]]
     name = "Carolina Ortega Pérez"
-    pageRef = "/sobre-mi"
+    pageRef = "/me"
     weight = 5
   [[languages.es.menu.main]]
     name = "Publicaciones"
