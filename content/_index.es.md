@@ -1,5 +1,5 @@
 # Sobre Mí
-{{<figure class=figure><img src="/images/me.jpg" width="200" class="figure-img" alt="Picture of a woman in Boston">}}
+{{<figure class=figure><img src="/images/me.jpg" class="figure-img" alt="Imagen de una mujer en Boston">}}
 
 Soy Carolina una estudiante en mi segundo año de doctorado en Computer Science en Cornell. Estoy basada en el campus de Cornell Tech en NYC, donde tengo la fortuna de tener a [Thomas Ristenpart](https://rist.tech.cornell.edu/) como mi asesor. Académicamente, me interesa la criptografía aplicada, seguridad y privacidad.
 
@@ -7,3 +7,4 @@ Antes de Cornell, estuve en el MIT, donde tuve la suerte de trabajar con [Nathan
 
 ## Contacto
 **email:** carolina “at” cs “dot” cornell “dot” edu
+- Mis pronombres son [ella/la](https://pronombr.es/ella).

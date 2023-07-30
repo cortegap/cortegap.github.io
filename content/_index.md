@@ -1,5 +1,5 @@
 # About
-{{<figure class=figure><img src="/images/me.jpg" width="200" class="figure-img" alt="Picture of a woman in Boston">}}
+{{<figure class=figure><img src="/images/me.jpg" class="figure-img" alt="Picture of a woman in Boston">}}
 
 Hi, I am Carolina! I am a second-year PhD student in Computer Science at Cornell University. I am based in the Cornell Tech campus in NYC, where I am advised by [Tom Ristenpart](https://rist.tech.cornell.edu/). Broadly speaking, I am interested in applied cryptography, security, and privacy.
 
