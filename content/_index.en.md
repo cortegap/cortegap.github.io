@@ -5,7 +5,7 @@ Hi, I am Carolina! I am a second-year PhD student in Computer Science at Cornell
 
 I was previously at MIT, where I was fortunate to be advised by [Nathan Burow](https://www.ll.mit.edu/biographies/nathan-h-burow), [Howie Shrobe](http://people.csail.mit.edu/hes/index.html), and [Hamed Okhravi](https://web.mit.edu/ha22286/www/index.html).
 
-**Note:** I will be organizing the [Cornell Security Seminar](https://www.cs.cornell.edu/secdg/) this fall (2023). Please contact me if you are interested in presenting.
+**Note:** I will be organizing the [Cornell Security Seminar](https://www.cs.cornell.edu/secdg/) this spring (2024). Please contact me if you are interested in giving a talk.
 
 ## Contact
 **email:** carolina “at” cs “dot” cornell “dot” edu
