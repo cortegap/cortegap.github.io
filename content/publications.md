@@ -1,5 +1,5 @@
 ## Publications
-- Injection Attacks against End-to-End Encrypted Applications\
+- [Injection Attacks against End-to-End Encrypted Applications](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a082/1RjEaQAIfkc)\
 Andrés Fábrega, Carolina Ortega Pérez, Armin Namavari, Ben Nassi, Rachit Agarwal, and Thomas Ristenpart\
 _IEEE Symposium on Security and Privacy - Oakland 2024_
 
