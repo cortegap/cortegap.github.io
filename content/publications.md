@@ -1,4 +1,8 @@
 ## Publications
+- [The Sting Framework: Proving the Existence of Superclass Adversaries](https://eprint.iacr.org/2024/1676)\
+Mahimna Kelkar, Yunqi Li, Nerla Jean-Louis, Carolina Ortega Perez, Kushal Babel, Andrew Miller, and Ari Juels\
+_Under submission_
+
 - [Injection Attacks against End-to-End Encrypted Applications](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a082/1RjEaQAIfkc)\
 Andrés Fábrega, Carolina Ortega Pérez, Armin Namavari, Ben Nassi, Rachit Agarwal, and Thomas Ristenpart\
 _IEEE Symposium on Security and Privacy - Oakland 2024_
