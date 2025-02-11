@@ -1,4 +1,7 @@
 # Charlas
+- Encrypted Access Logging for Online Accounts: Device Attributions without Device Tracking\
+[New York Crypto Day 2024](https://nycryptoday.wordpress.com/2024/09/)\
+Berkeley Security Seminar -- Otoño 2024
 
 - Injection Attacks Against End-to-End Encrypted Applications\
 [Real World Crypto 2024](https://rwc.iacr.org/2024/)
