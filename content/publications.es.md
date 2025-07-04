@@ -1,6 +1,6 @@
 ## Publicaciones
 - Interoperable Symmetric Message Franking\
-Carolina Ortega Pérez, Julia Len, and Thomas Ristenpart\
+Carolina Ortega Pérez, Thomas Ristenpart, and Julia Len\
 _Será publicado en CCS 2025_
 
 - Encrypted Access Logging for Online Accounts: Device Attributions without Device Tracking\
