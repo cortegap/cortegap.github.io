@@ -5,7 +5,7 @@ _To appear -- CCS 2025_
 
 - Encrypted Access Logging for Online Accounts: Device Attributions without Device Tracking\
 Carolina Ortega Pérez\*, Alaa Daffalla\*, and Thomas Ristenpart\
-_To appear -- USENIX Security 2025_
+_USENIX Security 2025_
 
 - [Injection Attacks against End-to-End Encrypted Applications](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a082/1RjEaQAIfkc)\
 Andrés Fábrega, Carolina Ortega Pérez, Armin Namavari, Ben Nassi, Rachit Agarwal, and Thomas Ristenpart\

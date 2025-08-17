@@ -1,5 +1,7 @@
 # Talks
 - Encrypted Access Logging for Online Accounts: Device Attributions without Device Tracking\
+USENIX Security 2025\
+Pre-USENIX Security Mini-Conference (Organized by MSR)\
 [New York Crypto Day 2024](https://nycryptoday.wordpress.com/2024/09/)\
 Berkeley Security Seminar -- Fall 2024
 
