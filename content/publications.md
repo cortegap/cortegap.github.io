@@ -1,9 +1,9 @@
 ## Publications
-- Interoperable Symmetric Message Franking\
+- [Interoperable Symmetric Message Franking](/files/interopSMF.pdf)\
 Carolina Ortega Pérez, Thomas Ristenpart, and Julia Len\
 _To appear -- CCS 2025_
 
-- Encrypted Access Logging for Online Accounts: Device Attributions without Device Tracking\
+- [Encrypted Access Logging for Online Accounts: Device Attributions without Device Tracking](https://www.usenix.org/conference/usenixsecurity25/presentation/ortega-perez)\
 Carolina Ortega Pérez\*, Alaa Daffalla\*, and Thomas Ristenpart\
 _USENIX Security 2025_
 
