@@ -1,7 +1,10 @@
 # Talks
+- Interoperable Symmetric Message Franking\
+[ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/schedule/#E1)
+
 - Encrypted Access Logging for Online Accounts: Device Attributions without Device Tracking\
-USENIX Security 2025\
-Pre-USENIX Security Mini-Conference (Organized by MSR)\
+[USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/presentation/ortega-perez)\
+[Pre-USENIX Security Mini-Conference](https://www.microsoft.com/en-us/research/event/pre-usenix-security-mini-conference/) (Organized by MSR)\
 [New York Crypto Day 2024](https://nycryptoday.wordpress.com/2024/09/)\
 Berkeley Security Seminar -- Fall 2024
 
